@@ -5,7 +5,7 @@
 
 2) Запускаем `Electronic School` для backend
 
-3) Запускаем `electronic-school-front` для frontend и пишем команду: `npm start`
+3) Запускаем `electronic-school-front` для frontend и пишем команду: `npm install` после этого `npm start`
 
 4) После запуска в браузере вводим адрес: `http://localhost:3000` или `http://localhost:3000/student`
 
